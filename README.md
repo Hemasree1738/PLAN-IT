@@ -17,8 +17,8 @@ Study Flow solves this problem by combining smart scheduling, focus tools, remin
 •	 Clean and responsive UI design
 
  How It Works -
-•	Users add subjects and assign difficulty levels (1–3).
-•	The system prioritizes harder subjects.
+•	Users add subjects and assign difficulty levels (EASY, MEDIUM, HARD).
+•	The system prioritizes time allocation according to harder subjects.
 •	Study sessions are automatically generated with structured break intervals.
 •	Task completion updates progress percentage in real time.
 •	Reminder buzzer alerts users at the end of sessions.
